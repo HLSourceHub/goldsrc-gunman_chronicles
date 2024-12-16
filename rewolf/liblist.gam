@@ -1,0 +1,18 @@
+// Gunman Game .dll Listing File
+// Load order is determined by file order.
+game "Gunman Chronicles"
+url_info "www.gunmanchronicles.com"
+version "Steam"
+svonly "0"
+cldll "1"
+startmap "city1a"
+trainmap "demo1"
+hlversion "1000"
+nomodels "0"
+nohimodel "1"
+mpfilter "demo"
+mpentity "info_player_deathmatch"
+gamedll "dlls\gunman.dll"
+icon "icon"
+developer "Rewolf Software"
+manual "http://www.3dactionplanet.com/gunman/help/walkthrough/index.shtml"
